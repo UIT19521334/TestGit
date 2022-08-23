@@ -4,5 +4,5 @@ update git version 2
 update new branch
 
 ## Create new git
-Tạo một git mới
+Tạo một git mới haha
 
