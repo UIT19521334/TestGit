@@ -5,4 +5,4 @@ update new branch
 
 ## Create new git
 Tạo một git mới a 
-update git version 2,3,1
+update git version 2,3,1 không thấy merge
